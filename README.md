@@ -1,3 +1,13 @@
+credit to technogeek156
+
+
+
+
+
+
+
+
+
 # TUTAI-AI
 A simple chatbot and AI. Hopefully he will grow, and eventually pass the Turing test.
 This repository is devoted to the growing and development of TUTAI, or the Turing Test Artificial Intelligence. 
